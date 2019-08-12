@@ -1,6 +1,6 @@
 # **Portable device and mobile application for the detection of ultraviolet radiation in real-time with a low-cost Arduino sensor.**
    
-![](https://github.com/nebelfvs/NeBla/blob/master/medicion-tiempo-real.jpeg)
+![](https://github.com/nebelfvs/NeBla/blob/master/compontente1.1.PNG)
 
 
 **Download APK**
