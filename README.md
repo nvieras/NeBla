@@ -9,7 +9,7 @@
 
 
 **Download APK**
-http://bit.ly/Apk-Uv-Reader-Ingles
+http://bit.ly/Apk-UvReader-ingles
 
 **Arduino IDE**
 http://bit.ly/Arduino-IDE-Codigo
