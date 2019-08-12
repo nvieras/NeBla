@@ -1,6 +1,6 @@
 # **Portable device and mobile application for the detection of ultraviolet radiation in real-time with a low-cost Arduino sensor.**
    
-![](https://github.com/nebelfvs/NeBla/blob/master/compontente1.1.PNG)
+![](https://github.com/nebelfvs/NeBla/blob/master/Interface-UvReader.PNG)
 
 
 **Measurements made.**
