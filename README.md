@@ -14,4 +14,4 @@ http://bit.ly/Apk-UvReader-Ingles
 **Arduino IDE**
 http://bit.ly/Arduino-IDE-Codigo
 
-**Developed by:** nvieras@est.ups.educ.ec bmrodriguez2@est.ups.edu.ec jllerena@ups.edu.ec
+**Developed by:** nvieras@est.ups.educ.ec brodriguezm2@est.ups.edu.ec jllerena@ups.edu.ec
