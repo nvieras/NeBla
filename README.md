@@ -3,7 +3,7 @@
 ![](https://github.com/nebelfvs/NeBla/blob/master/Interface-UvReader.PNG)
 
 ![](https://github.com/nebelfvs/NeBla/blob/master/Kit-UvReader-NeBla.PNG)
-**Measurements made.**
+                                                   **Measurements made.**
 
 ![](https://github.com/nebelfvs/NeBla/blob/master/comparacion-norte-sur.PNG)
 
@@ -13,3 +13,5 @@ http://bit.ly/Apk-UvReader-Ingles
 
 **Arduino IDE**
 http://bit.ly/Arduino-IDE-Codigo
+
+**Developed by:** nvieras@est.ups.educ.ec bmrodriguez2@est.ups.edu.ec jllerena@ups.edu.ec
