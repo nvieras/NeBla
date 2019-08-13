@@ -8,6 +8,7 @@ The data processing is shown in the upper right in an option called reporting; i
 
 **In the present image the measurement is made with a UV lamp then the other images are the measurements made with the sun's UV rays. In the end the dimensions of NeBla.**
 **The data is transmitted to a receiver, on a smart equipment, through a mobile application. The user can read the information and observe the ultraviolet radiation index in a specific place**
+**The UV lamp can be found in the following link:** http://bit.ly/LamparaUV-Amazon
 
 ![](https://github.com/nebelfvs/NeBla/blob/master/Kit-UvReader-NeBla.PNG)
 
