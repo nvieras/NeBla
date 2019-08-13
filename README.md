@@ -25,7 +25,4 @@ The data processing is shown in the upper right in an option called reporting; i
 **Download APK**
 http://bit.ly/Apk-UvReader-Ingles
 
-**Arduino IDE**
-http://bit.ly/Arduino-IDE-Codigo
-
 **Developed by:** nvieras@est.ups.educ.ec brodriguezm2@est.ups.edu.ec jllerena@ups.edu.ec
