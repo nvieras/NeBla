@@ -1,12 +1,12 @@
 # **Portable device and mobile application for the detection of ultraviolet radiation in real-time with a low-cost Arduino sensor.**
    
-**Mobile application images**
-
-In these images you will find the operation of the mobile application that connects to the kit UvReader.
+**The UV READER mobile application is implemented with Bootstrap and Jquery as a framework, its main screen shows the status of the sensor whether or not it is connected to the application. It also has the last recorded connection and a speedometer that shows the UV radiation index in real-time, with a measurement every second and a delay of one second every three hours.**
+**As for the design of the UV speedometer, a JavaScript library called “Gauge.min.js” is used.
+The data processing is shown in the upper right in an option called reporting; it displays by date, the measurements that are made. The application table shows the last 100 records that have been entered in the mobile database. Likewise, the data is validated on a graph averaged every 30 minutes..**
 
 ![](https://github.com/nebelfvs/NeBla/blob/master/Interface-UvReader.PNG)
 
-In the present image the measurement is made with a UV lamp then the other images are the measurements made with the sun's UV rays. In the end the dimensions of NeBla.
+**In the present image the measurement is made with a UV lamp then the other images are the measurements made with the sun's UV rays. In the end the dimensions of NeBla.**
 
 ![](https://github.com/nebelfvs/NeBla/blob/master/Kit-UvReader-NeBla.PNG)
 
