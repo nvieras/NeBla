@@ -12,6 +12,7 @@ In the present image the measurement is made with a UV lamp then the other image
 
 **The architecture device NeBla, utilizes an Arduino family model UNO card, a UV sensor, an RTC (Real-Time Clock), a Bluetooth module for communication and an SD module for data storage in plain text.**
 
+![](https://github.com/nvieras/NeBla/blob/master/Conexiones-Nebla.PNG)
 
 **Measurements made.**
 
