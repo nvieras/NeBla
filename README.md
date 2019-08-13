@@ -6,7 +6,7 @@ In these images you will find the operation of the mobile application that conne
 
 ![](https://github.com/nebelfvs/NeBla/blob/master/Interface-UvReader.PNG)
 
-In the present image the measurement is made with a UV lamp then the other images are the measurements made with the sun's UV rays.
+In the present image the measurement is made with a UV lamp then the other images are the measurements made with the sun's UV rays. In the end the dimensions of NeBla.
 
 ![](https://github.com/nebelfvs/NeBla/blob/master/Kit-UvReader-NeBla.PNG)
 
