@@ -2,9 +2,11 @@
    
 **Mobile application images**
 
-In these images you will find the operation of the mobile application that connects to the kit UvReader 
+In these images you will find the operation of the mobile application that connects to the kit UvReader.
 
 ![](https://github.com/nebelfvs/NeBla/blob/master/Interface-UvReader.PNG)
+
+In the present image the measurement is made with a UV lamp then the other images are the measurements made with the sun's UV rays.
 
 ![](https://github.com/nebelfvs/NeBla/blob/master/Kit-UvReader-NeBla.PNG)
 
