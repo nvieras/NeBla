@@ -22,9 +22,9 @@ The data processing is shown in the upper right in an option called reporting; i
 
 ![](https://github.com/nvieras/NeBla/blob/master/Mediciones/NouthAndSouth.PNG)
 
-**Download APK**
-http://bit.ly/Apk-UvReader-Ingles
+**Download APK:** http://bit.ly/Apk-UvReader-Ingles
 
-**Video Project NeBla**  http://bit.ly/Video-Project-NeBla
+
+**Video Project NeBla:** http://bit.ly/Video-NeBla-Project
 
 **Developed by:** nvieras@est.ups.educ.ec brodriguezm2@est.ups.edu.ec jllerena@ups.edu.ec
