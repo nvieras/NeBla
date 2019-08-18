@@ -25,4 +25,6 @@ The data processing is shown in the upper right in an option called reporting; i
 **Download APK**
 http://bit.ly/Apk-UvReader-Ingles
 
+**Video Project NeBla**  http://bit.ly/Video-Project-NeBla
+
 **Developed by:** nvieras@est.ups.educ.ec brodriguezm2@est.ups.edu.ec jllerena@ups.edu.ec
