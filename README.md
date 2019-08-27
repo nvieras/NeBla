@@ -27,4 +27,4 @@ The data processing is shown in the upper right in an option called reporting; i
 
 **Video Project NeBla:** http://bit.ly/Video-NeBla-Project
 
-**Developed by:** nvieras@est.ups.educ.ec brodriguezm2@est.ups.edu.ec jllerena@ups.edu.ec
+**Developed by:** jllerena@ups.edu.ec nvieras@est.ups.educ.ec brodriguezm2@est.ups.edu.ec
