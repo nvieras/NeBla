@@ -20,7 +20,7 @@ The data processing is shown in the upper right in an option called reporting; i
 
 **In order to obtain the results of the UV radiation index for this project, respectively; we place two prototypes in the north and south in the city of Guayaquil 2 ° 09'25.8 "S 79 ° 56'01.8" W and 2 ° 13'39.2 "S 79 ° 54'13.9" W. The data is collected in the date range from April 7, 2019, until September 01, 2019. The schedule is established for the measurement of UV rays in the period from April to September are from 07:00:00 to 19:00:00. The sensor results are measured in (mW/cm2) and the corresponding voltage for each UV unit.**
 
-![](https://github.com/nvieras/NeBla/blob/master/Mediciones/northAndSouth.png)
+![](https://github.com/nvieras/NeBla/blob/master/Mediciones/NorthAndSouth-April-May.PNG)
 
 **Download APK:** http://bit.ly/Apk-UvReader-Ingles
 
