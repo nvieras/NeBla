@@ -24,9 +24,6 @@ The data processing is shown in the upper right in an option called reporting; i
 
 ![](https://github.com/nvieras/NeBla/blob/master/Mediciones/NorthAndSouth-June-July.PNG)
 
-![](https://github.com/nvieras/NeBla/blob/master/Mediciones/NorthAndSouth-August-September.PNG)
-
-
 **Download APK:** http://bit.ly/Apk-UvReader-Ingles
 
 
