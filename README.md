@@ -24,7 +24,7 @@ The data processing is shown in the upper right in an option called reporting; i
 
 **The values obtained by the two transportable UV READER prototypes during the months of April to August, located to the north of the city as well as to the south, are shown in Fig. 7, levels comparable to those obtained with fixed equipment are ob-served and of great structure like the one that was lodged in Instituto Nacional de Meteorología e Hidrología (INAMHI).**
 
-![](https://github.com/nvieras/NeBla/blob/master/Mediciones/NorthAndSouth-June-July.PNG)
+![](https://github.com/nvieras/NeBla/blob/master/Mediciones/NorthAndSouth-Inamhi.PNG)
 
 **Download APK:** http://bit.ly/Apk-UvReader-Ingles
 
