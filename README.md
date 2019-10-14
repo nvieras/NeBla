@@ -1,4 +1,4 @@
-# **Portable device and mobile application for the detection of ultraviolet radiation in real-time with a low-cost Arduino sensor.**
+# **Portable device and mobile application for the detection of ultraviolet radiation in real time with a low cost sensor in Arduino.**
    
 **The UV READER mobile application is implemented with Bootstrap and Jquery as a framework, its main screen shows the status of the sensor whether or not it is connected to the application. It also has the last recorded connection and a speedometer that shows the UV radiation index in real-time, with a measurement every second and a delay of one second every three hours.**
 **As for the design of the UV speedometer, a JavaScript library called “Gauge.min.js” is used.
@@ -22,7 +22,7 @@ The data processing is shown in the upper right in an option called reporting; i
 
 ![](https://github.com/nvieras/NeBla/blob/master/Mediciones/NorthAndSouth.png)
 
-**The values obtained by the two transportable UV READER prototypes during the months of April to August, located to the north of the city as well as to the south, are shown in Fig. 7, levels comparable to those obtained with fixed equipment are ob-served and of great structure like the one that was lodged in Instituto Nacional de Meteorología e Hidrología (INAMHI).**
+**The values obtained by the two transportable UV READER prototypes during the months of April to September, located to the north of the city as well as to the south, levels comparable to those obtained with fixed equipment are ob-served and of great structure like the one that was lodged in Instituto Nacional de Meteorología e Hidrología (INAMHI).**
 
 ![](https://github.com/nvieras/NeBla/blob/master/Mediciones/NorthAndSouth-Inamhi.png)
 
