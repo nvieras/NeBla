@@ -22,6 +22,7 @@ The global UV radiation levels are a type of measurement ultraviolet intensity t
 
 The World Health Organization (WHO) categorize the radiation levels (ultraviolet) worldwide as it is show non Table 3. Such categorization covers 5 levels with an identifying color in which Green is the lowest level and does not present health risks up to the highest level which is a harmful is the exposure is prolonged and classified with a purple color.   
 
+![](https://github.com/nvieras/NeBla/blob/master/Mediciones/Tabla-Colores.PNG)
 
 **Measurements made.**
 
