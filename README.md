@@ -14,8 +14,7 @@ The data processing is shown in the upper right in an option called reporting; i
 
 **The architecture device NeBla, utilizes an Arduino family model UNO card, a UV sensor, an RTC (Real-Time Clock), a Bluetooth module for communication and an SD module for data storage in plain text.**
 
-![](https://github.com/nvieras/NeBla/blob/master/ImagenesNebla/Conexiones-Nebla.PNG)
-
+![](https://github.com/nvieras/NeBla/blob/master/ImagenesNebla/Nebla-PieFoto.png)
 **UV levels and index categorization.**
 
 The global UV radiation levels are a type of measurement ultraviolet intensity that the sun radiates on the surface of the Earth [18]. The meteorological information of a country can give data about the exposition in category, value or interval of IUV values (Ultraviiolet Intensity) or both [19].
