@@ -34,7 +34,7 @@ The World Health Organization (WHO) categorize the radiation levels (ultraviolet
 ![](https://github.com/nvieras/NeBla/blob/master/Mediciones/NorthAndSouth-Inamhi.png)
 
 
-**Download APK:** http://bit.ly/Apk-UvReader-Ingles
+**Download APK:** http://bit.ly/Uv-Reader-Apk-Ingles
 
 
 **Video Project NeBla:** http://bit.ly/Video-NeBla-Project
