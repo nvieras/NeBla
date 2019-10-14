@@ -25,13 +25,14 @@ The World Health Organization (WHO) categorize the radiation levels (ultraviolet
 
 **Measurements made.**
 
-**In order to obtain the results of the UV radiation index for this project, respectively; we place two prototypes in the north and south in the city of Guayaquil 2 ° 09'25.8 "S 79 ° 56'01.8" W and 2 ° 13'39.2 "S 79 ° 54'13.9" W. The data is collected in the date range from April 7, 2019, until September 29, 2019. The schedule is established for the measurement of UV rays in the period from April to September are from 07:00:00 to 19:00:00. The sensor results are measured in (mW/cm2) and the corresponding voltage for each UV unit.**
+**In order to have index values of UV radiation levels and confirmation of equipment functioning, we placed two Nebla prototypes, one in the north and the other one in the south of Guayaquil city at 2°09'25.8"S 79°56'01.8"W and 2°13'39.2"S 79°54'13.9"W respectively. Collecting sensor values every Sunday from the 7th to the 29 of Septembre, 2019, from 07:00:00 to 19:00:00, Such readouts are seen in the following**
 
 ![](https://github.com/nvieras/NeBla/blob/master/Mediciones/NorthAndSouth.png)
 
-**The values obtained by the two transportable UV READER prototypes during the months of April to September, located to the north of the city as well as to the south, levels comparable to those obtained with fixed equipment are ob-served and of great structure like the one that was lodged in Instituto Nacional de Meteorología e Hidrología (INAMHI).**
+**The solmaforo values are constracted (set equipment and the great structure) of the National Meteorology and hydrology institute (INAMHI) located in the Santa Elena province (closest measuring point) in the Libertad County at 127 km from the meas-uring point north and at 135 km from the measuring point south of Guayaquil. Cur-rently, there are no equipment in Guayaquil in the INAMHI. The proported data is to show our comparative is at http://186.42.174.236/IndiexUV2/. It is known that our factors indicate how cloudiness can subdue the UV spectrum. In other words, the months of April and May when the weather changes and there is a cloudy sky, the values of the devices have an accentuated difference within the peninsula**
 
 ![](https://github.com/nvieras/NeBla/blob/master/Mediciones/NorthAndSouth-Inamhi.png)
+
 
 **Download APK:** http://bit.ly/Apk-UvReader-Ingles
 
