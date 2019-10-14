@@ -18,9 +18,9 @@ The data processing is shown in the upper right in an option called reporting; i
 
 **UV levels and index categorization.**
 
-**The global UV radiation levels are a type of measurement ultraviolet intensity that the sun radiates on the surface of the Earth [18]. The meteorological information of a country can give data about the exposition in category, value or interval of IUV values (Ultraviiolet Intensity) or both [19].
+The global UV radiation levels are a type of measurement ultraviolet intensity that the sun radiates on the surface of the Earth [18]. The meteorological information of a country can give data about the exposition in category, value or interval of IUV values (Ultraviiolet Intensity) or both [19].
 
-**The World Health Organization (WHO) categorize the radiation levels (ultraviolet) worldwide as it is show non Table 3. Such categorization covers 5 levels with an identifying color in which Green is the lowest level and does not present health risks up to the highest level which is a harmful is the exposure is prolonged and classified with a purple color.   
+The World Health Organization (WHO) categorize the radiation levels (ultraviolet) worldwide as it is show non Table 3. Such categorization covers 5 levels with an identifying color in which Green is the lowest level and does not present health risks up to the highest level which is a harmful is the exposure is prolonged and classified with a purple color.   
 
 
 **Measurements made.**
