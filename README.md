@@ -16,6 +16,13 @@ The data processing is shown in the upper right in an option called reporting; i
 
 ![](https://github.com/nvieras/NeBla/blob/master/ImagenesNebla/Conexiones-Nebla.PNG)
 
+**UV levels and index categorization.**
+
+**The global UV radiation levels are a type of measurement ultraviolet intensity that the sun radiates on the surface of the Earth [18]. The meteorological information of a country can give data about the exposition in category, value or interval of IUV values (Ultraviiolet Intensity) or both [19].
+
+**The World Health Organization (WHO) categorize the radiation levels (ultraviolet) worldwide as it is show non Table 3. Such categorization covers 5 levels with an identifying color in which Green is the lowest level and does not present health risks up to the highest level which is a harmful is the exposure is prolonged and classified with a purple color.   
+
+
 **Measurements made.**
 
 **In order to obtain the results of the UV radiation index for this project, respectively; we place two prototypes in the north and south in the city of Guayaquil 2 ° 09'25.8 "S 79 ° 56'01.8" W and 2 ° 13'39.2 "S 79 ° 54'13.9" W. The data is collected in the date range from April 7, 2019, until September 29, 2019. The schedule is established for the measurement of UV rays in the period from April to September are from 07:00:00 to 19:00:00. The sensor results are measured in (mW/cm2) and the corresponding voltage for each UV unit.**
