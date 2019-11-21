@@ -31,7 +31,7 @@ The World Health Organization (WHO) categorize the radiation levels (ultraviolet
 
 **The solmaforo values are constracted (set equipment and the great structure) of the National Meteorology and hydrology institute (INAMHI) located in the Santa Elena province (closest measuring point) in the Libertad County at 127 km from the meas-uring point north and at 135 km from the measuring point south of Guayaquil. Cur-rently, there are no equipment in Guayaquil in the INAMHI. The proported data is to show our comparative is at http://186.42.174.236/IndiceUV2/. It is known that our factors indicate how cloudiness can subdue the UV spectrum. In other words, the months of April and May when the weather changes and there is a cloudy sky, the values of the devices have an accentuated difference within the peninsula**
 
-![](https://github.com/nvieras/NeBla/blob/master/Mediciones/NorthAndSouth-Inamhi.png)
+![](https://github.com/nvieras/NeBla/blob/master/Mediciones/Inamhi-vs-UVReader.png)
 
 
 **Download APK:** http://bit.ly/Uv-Reader-Apk-Ingles
