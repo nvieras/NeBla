@@ -5,13 +5,24 @@ The UV READER mobile application is implemented with Bootstrap and Jquery as a f
 The data processing is shown in the upper right in an option called reporting; it displays by date, the measurements that are made. The application table shows the last 100 records that have been entered in the mobile database. Likewise, the data is validated on a graph averaged every 30 minutes.
 </p>
 
-<link>(https://github.com/nvieras/NeBla/blob/master/ImagenesNebla/Interface-UvReader.PNG)</link>
+<p align="center">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/nvieras/NeBla/blob/master/ImagenesNebla/Interface-UvReader.PNG">
+    <img src="https://github.com/nvieras/NeBla/raw/master/ImagenesNebla/Interface-UvReader.PNG" alt="" style="max-width:100%;">
+  </a>
+</p>
 
-**In the present image the measurement is made with a UV lamp then the other images are the measurements made with the sun's UV rays. In the end the dimensions of NeBla.**
-**The data is transmitted to a receiver, on a smart equipment, through a mobile application. The user can read the information and observe the ultraviolet radiation index in a specific place**
-**The UV lamp can be found in the following link:** http://bit.ly/LamparaUV-Amazon
+<p align="justify">
+In the present image the measurement is made with a UV lamp then the other images are the measurements made with the sun's UV rays. In the end the dimensions of NeBla.
+The data is transmitted to a receiver, on a smart equipment, through a mobile application. The user can read the information and observe the ultraviolet radiation index in a specific place.
+The UV lamp can be found in the following link: http://bit.ly/LamparaUV-Amazon
+</p>
 
-![](https://github.com/nvieras/NeBla/blob/master/ImagenesNebla/Kit-UvReader-NeBla.PNG)
+
+<p align="center">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/nvieras/NeBla/blob/master/ImagenesNebla/Kit-UvReader-NeBla.PNG">
+    <img src="https://github.com/nvieras/NeBla/blob/master/ImagenesNebla/Kit-UvReader-NeBla.PNG" alt="" style="max-width:100%;">
+  </a>
+</p>
 
 **The UV-Reader kit consists of a portable device and mobile application.  NeBla has an Arduino UNO card as its base badge which incorporates a microcontroller program with an architecture of pin connections that allow to establish communication with other cards of different technologies [15] such as: a Secure Digital (SD) card Reading module linked for saving light wave readings on a flat format, a Bluetooth module, a Real-Time Clock (RTC) module and the UV sensor model ML8511 which functions on a 5 volt battery. This comes equipped with an amplifier that can make the con-versation photoelectric dependable to a voltage of UV light that is caught. The NeBla portable equipment proportions an analogical amount of UV light which is detected and needs to be located in a place with a direct view line to an UV source (for this type of job, the UV emission sources are the sun or an UV lamp led). The experi-mental prototype is connected with Bluetooth wireless technology to a mobile UVReader application. The connections are visualized to receive data during the UV (A) sensor and the transmission from a Bluetooth (B) to the mobile device. The portable device uses a feeding source of 9 volts (E) and the RTC (C) to synchronize the system, the SD (D) module is to load data received by the sensor and all the devices linked to the Arduino UNO card (F).**
 
