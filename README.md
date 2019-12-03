@@ -24,9 +24,16 @@ The UV lamp can be found in the following link: http://bit.ly/LamparaUV-Amazon
   </a>
 </p>
 
-**The UV-Reader kit consists of a portable device and mobile application.  NeBla has an Arduino UNO card as its base badge which incorporates a microcontroller program with an architecture of pin connections that allow to establish communication with other cards of different technologies [15] such as: a Secure Digital (SD) card Reading module linked for saving light wave readings on a flat format, a Bluetooth module, a Real-Time Clock (RTC) module and the UV sensor model ML8511 which functions on a 5 volt battery. This comes equipped with an amplifier that can make the con-versation photoelectric dependable to a voltage of UV light that is caught. The NeBla portable equipment proportions an analogical amount of UV light which is detected and needs to be located in a place with a direct view line to an UV source (for this type of job, the UV emission sources are the sun or an UV lamp led). The experi-mental prototype is connected with Bluetooth wireless technology to a mobile UVReader application. The connections are visualized to receive data during the UV (A) sensor and the transmission from a Bluetooth (B) to the mobile device. The portable device uses a feeding source of 9 volts (E) and the RTC (C) to synchronize the system, the SD (D) module is to load data received by the sensor and all the devices linked to the Arduino UNO card (F).**
+<p align="justify">
+The UV-Reader kit consists of a portable device and mobile application.  NeBla has an Arduino UNO card as its base badge which incorporates a microcontroller program with an architecture of pin connections that allow to establish communication with other cards of different technologies [15] such as: a Secure Digital (SD) card Reading module linked for saving light wave readings on a flat format, a Bluetooth module, a Real-Time Clock (RTC) module and the UV sensor model ML8511 which functions on a 5 volt battery. This comes equipped with an amplifier that can make the con-versation photoelectric dependable to a voltage of UV light that is caught. The NeBla portable equipment proportions an analogical amount of UV light which is detected and needs to be located in a place with a direct view line to an UV source (for this type of job, the UV emission sources are the sun or an UV lamp led). The experi-mental prototype is connected with Bluetooth wireless technology to a mobile UVReader application. The connections are visualized to receive data during the UV (A) sensor and the transmission from a Bluetooth (B) to the mobile device. The portable device uses a feeding source of 9 volts (E) and the RTC (C) to synchronize the system, the SD (D) module is to load data received by the sensor and all the devices linked to the Arduino UNO card (F).
+</p>
 
-![](https://github.com/nvieras/NeBla/blob/master/ImagenesNebla/Nebla-PieFoto.png)
+<p align="center">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/nvieras/NeBla/blob/master/ImagenesNebla/Nebla-PieFoto.png">
+    <img src="https://github.com/nvieras/NeBla/blob/master/ImagenesNebla/Nebla-PieFoto.png" alt="" style="max-width:100%;">
+  </a>
+</p>
+
 **UV levels and index categorization.**
 
 The global UV radiation levels are a type of measurement ultraviolet intensity that the sun radiates on the surface of the Earth [18]. The meteorological information of a country can give data about the exposition in category, value or interval of IUV values (Ultraviiolet Intensity) or both [19].
