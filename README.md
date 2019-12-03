@@ -50,18 +50,29 @@ The World Health Organization (WHO) categorize the radiation levels (ultraviolet
 
 <h2 align="center">Measurements made.</h2>
 
-**In order to have index values of UV radiation levels and confirmation of equipment functioning, we placed two Nebla prototypes, one in the north and the other one in the south of Guayaquil city at 2°09'25.8"S 79°56'01.8"W and 2°13'39.2"S 79°54'13.9"W respectively. Collecting sensor values every Sunday from the 7th to the 29 of Septembre, 2019, from 07:00:00 to 19:00:00, Such readouts are seen in the following**
+<p align="justify">
+In order to have index values of UV radiation levels and confirmation of equipment functioning, we placed two Nebla prototypes, one in the north and the other one in the south of Guayaquil city at 2°09'25.8"S 79°56'01.8"W and 2°13'39.2"S 79°54'13.9"W respectively. Collecting sensor values every Sunday from the 7th to the 29 of Septembre, 2019, from 07:00:00 to 19:00:00, Such readouts are seen in the following.
+</p>
 
-![](https://github.com/nvieras/NeBla/blob/master/Mediciones/North-vs-South.png)
+<p align="center">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/nvieras/NeBla/blob/master/Mediciones/North-vs-South.png">
+    <img src="https://github.com/nvieras/NeBla/blob/master/Mediciones/North-vs-South.png" alt="" style="max-width:100%;">
+  </a>
+</p>
 
-**The solmaforo values are constracted (set equipment and the great structure) of the National Meteorology and hydrology institute (INAMHI) located in the Santa Elena province (closest measuring point) in the Libertad County at 127 km from the meas-uring point north and at 135 km from the measuring point south of Guayaquil. Cur-rently, there are no equipment in Guayaquil in the INAMHI. The proported data is to show our comparative is at http://186.42.174.236/IndiceUV2/. It is known that our factors indicate how cloudiness can subdue the UV spectrum. In other words, the months of April and May when the weather changes and there is a cloudy sky, the values of the devices have an accentuated difference within the peninsula**
+<p align="justify">
+The solmaforo values are constracted (set equipment and the great structure) of the National Meteorology and hydrology institute (INAMHI) located in the Santa Elena province (closest measuring point) in the Libertad County at 127 km from the meas-uring point north and at 135 km from the measuring point south of Guayaquil. Cur-rently, there are no equipment in Guayaquil in the INAMHI. The proported data is to show our comparative is at http://186.42.174.236/IndiceUV2/. It is known that our factors indicate how cloudiness can subdue the UV spectrum. In other words, the months of April and May when the weather changes and there is a cloudy sky, the values of the devices have an accentuated difference within the peninsula.
+</p>
 
-![](https://github.com/nvieras/NeBla/blob/master/Mediciones/Inamhi-vs-UVReader.png)
+<p align="center">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/nvieras/NeBla/blob/master/Mediciones/Inamhi-vs-UVReader.png">
+    <img src="https://github.com/nvieras/NeBla/blob/master/Mediciones/Inamhi-vs-UVReader.png" alt="" style="max-width:100%;">
+  </a>
+</p>
 
 
-**Download APK:** http://bit.ly/Uv-Reader-Apk-Ingles
+<strong>Download APK:</strong> http://bit.ly/Uv-Reader-Apk-Ingles
 
+<strong>Video Project NeBla:</strong> http://bit.ly/Video-NeBla-Project
 
-**Video Project NeBla:** http://bit.ly/Video-NeBla-Project
-
-**Developed by:** jllerena@ups.edu.ec nvieras@est.ups.educ.ec brodriguezm2@est.ups.edu.ec
+<strong>Developed by:</strong> jllerena@ups.edu.ec nvieras@est.ups.educ.ec brodriguezm2@est.ups.edu.ec
