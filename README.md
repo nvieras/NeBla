@@ -1,12 +1,11 @@
-<h1 align="justify">
-Portable device and mobile application for the detection of ultraviolet radiation in real time with a low cost sensor in Arduino.
-<h/1>
+<h1 align="justify">Portable device and mobile application for the detection of ultraviolet radiation in real time with a low cost sensor in Arduino.</h1>
    
-**The UV READER mobile application is implemented with Bootstrap and Jquery as a framework, its main screen shows the status of the sensor whether or not it is connected to the application. It also has the last recorded connection and a speedometer that shows the UV radiation index in real-time, with a measurement every second and a delay of one second every three hours.**
-**As for the design of the UV speedometer, a JavaScript library called “Gauge.min.js” is used.
-The data processing is shown in the upper right in an option called reporting; it displays by date, the measurements that are made. The application table shows the last 100 records that have been entered in the mobile database. Likewise, the data is validated on a graph averaged every 30 minutes..**
+<p align="justify">
+The UV READER mobile application is implemented with Bootstrap and Jquery as a framework, its main screen shows the status of the sensor whether or not it is connected to the application. It also has the last recorded connection and a speedometer that shows the UV radiation index in real-time, with a measurement every second and a delay of one second every three hours. As for the design of the UV speedometer, a JavaScript library called “Gauge.min.js” is used.
+The data processing is shown in the upper right in an option called reporting; it displays by date, the measurements that are made. The application table shows the last 100 records that have been entered in the mobile database. Likewise, the data is validated on a graph averaged every 30 minutes.
+</p>
 
-![](https://github.com/nvieras/NeBla/blob/master/ImagenesNebla/Interface-UvReader.PNG)
+<link>(https://github.com/nvieras/NeBla/blob/master/ImagenesNebla/Interface-UvReader.PNG)</link>
 
 **In the present image the measurement is made with a UV lamp then the other images are the measurements made with the sun's UV rays. In the end the dimensions of NeBla.**
 **The data is transmitted to a receiver, on a smart equipment, through a mobile application. The user can read the information and observe the ultraviolet radiation index in a specific place**
