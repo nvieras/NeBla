@@ -34,15 +34,21 @@ The UV-Reader kit consists of a portable device and mobile application.  NeBla h
   </a>
 </p>
 
-**UV levels and index categorization.**
+<h2 align="center"> UV levels and index categorization.</h2>
 
+<p align="justify">
 The global UV radiation levels are a type of measurement ultraviolet intensity that the sun radiates on the surface of the Earth [18]. The meteorological information of a country can give data about the exposition in category, value or interval of IUV values (Ultraviiolet Intensity) or both [19].
 
 The World Health Organization (WHO) categorize the radiation levels (ultraviolet) worldwide as it is show non Table 3. Such categorization covers 5 levels with an identifying color in which Green is the lowest level and does not present health risks up to the highest level which is a harmful is the exposure is prolonged and classified with a purple color.   
+</p>
 
-![](https://github.com/nvieras/NeBla/blob/master/Mediciones/Tabla-Colores.PNG)
+<p align="center">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/nvieras/NeBla/blob/master/Mediciones/Tabla-Colores.PNG">
+    <img src="https://github.com/nvieras/NeBla/blob/master/Mediciones/Tabla-Colores.PNG" alt="" style="max-width:100%;">
+  </a>
+</p>
 
-**Measurements made.**
+<h2 align="center">Measurements made.</h2>
 
 **In order to have index values of UV radiation levels and confirmation of equipment functioning, we placed two Nebla prototypes, one in the north and the other one in the south of Guayaquil city at 2°09'25.8"S 79°56'01.8"W and 2°13'39.2"S 79°54'13.9"W respectively. Collecting sensor values every Sunday from the 7th to the 29 of Septembre, 2019, from 07:00:00 to 19:00:00, Such readouts are seen in the following**
 
